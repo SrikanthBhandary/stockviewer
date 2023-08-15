@@ -82,6 +82,7 @@ The Stock Viewer Application provides a simple and user-friendly way to retrieve
 
 ---
 
+Note: You need to export an environment variable API_KEY. You can get this API_KEY from finhub for free.
 
 
 

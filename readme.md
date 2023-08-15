@@ -4,6 +4,9 @@
 
 The Stock Viewer Application is a graphical user interface (GUI) application that allows users to retrieve and view stock data using the Finnhub API. It provides a simple way to enter a stock symbol and fetch the corresponding stock data, which is then displayed in a table.
 
+<img width="406" alt="Screenshot 2023-08-15 at 4 20 11 PM" src="https://github.com/SrikanthBhandary/stockviewer/assets/11585859/15d1ca13-1dd5-4936-bfb4-2302d30b1a36">
+
+
 ### Features:
 
 1. **Symbol Input**: Users can enter a stock symbol in the provided input field.
@@ -78,5 +81,8 @@ The Stock Viewer Application is a graphical user interface (GUI) application tha
 The Stock Viewer Application provides a simple and user-friendly way to retrieve and view stock data using the Finnhub API. Users can input a stock symbol, click a button to fetch data, and visualize the retrieved data in a table. The application's basic functionality can serve as a foundation for building more advanced stock data visualization tools.
 
 ---
+
+
+
 
 Feel free to further enhance the application by adding error handling, additional features, and improved user interfaces.
